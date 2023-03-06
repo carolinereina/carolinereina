@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Carol Reina, going back to the origins of development</h1>
-<h3 align="center">Voltando para o mundo de desenvolver software</h3>
+<h1 align="center">Oii 👋, eu sou a Carol</h1>
+<h3 align="center">Uma desenvolvedora em desenvolvimento</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/carolineareina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carolineareina" height="20" width="30" /></a>
 <a href="https://instagram.com/_carolinereina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_carolinereina" height="20" width="30" /></a>
 </p>
 
-- 🌱 No processo de apredizagem de desenvolvimento Android/IOS com **React Native**
+- 🌱 No processo de aprendizado 
+- 👨‍💻 Desenvolvimento mobile Android/IOS com **React Native** e desenvolvimento Web
 - 👨‍💻 Formada em Análise e Desenvolvimento de Sistemas
-- 🔭 Hoje sou Analista de Requisitos | Projetos de T.I
+- 🔭 Atualmente Analista de Requisitos | Projetos de T.I
 - ⚡ Uma curiosa e apreciadora de UI/UX
 - 😄 Sobre minhas experiências, pode ficar à vontade para espiar meu LinkedIn [linkedin.com/in/carolinereina/](linkedin.com/in/carolinereina/)
 
