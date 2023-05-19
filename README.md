@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 No processo de aprendizado 
-- 👨‍💻 Desenvolvimento mobile Android/IOS com **React Native** e desenvolvimento Web
+- 👨‍💻 Desenvolvimento mobile Android/IOS com **Flutter** e **Dart**
 - 👨‍💻 Formada em Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente Analista de Requisitos | Projetos de T.I
 - ⚡ Uma curiosa e apreciadora de UI/UX
